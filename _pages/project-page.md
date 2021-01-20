@@ -37,22 +37,9 @@ project_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-  - image_path: assets/images/recommendation.PNG
-    title: "PySpark Webpage Ranking"
-    excerpt: "Built a movie recommendation engine for personalized top recommended movies and conducted extensive experiments "
-    url: "https://github.com/floria567/PySpark-webpage-ranking"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-
-  - image_path: assets/images/edav.PNG
-    title: "Bank Customer Segmentation and Fraud Detection"
-    excerpt: "Analyzed and visualized the COVID-19 pandemic's influence on New York City residents who use Citi Bike as part of their commuting tools."
-    url: "https://github.com/NLP-paper/NLP-paper"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-
 ---
-{% include feature_row id="intro" type="left" %}
+
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="project_row"%}
 
