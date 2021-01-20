@@ -37,11 +37,6 @@ project_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-
-intro_2: 
-  - excerpt: 'Topics include Spark, NLP'
-
-project_row_2:
   - image_path: assets/images/recommendation.PNG
     title: "PySpark Webpage Ranking"
     excerpt: "Built a movie recommendation engine for personalized top recommended movies and conducted extensive experiments "
