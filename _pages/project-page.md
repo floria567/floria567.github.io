@@ -45,22 +45,22 @@ project_row2:
     title: "PySpark Webpage Ranking"
     excerpt: "Built a PySpark application"
     url: "https://github.com/floria567/PySpark-webpage-ranking"
-    bnt_label: "Read"
-    bnt_class: "btn--secondary"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
     
   - image_path: assets/images/placeholder.PNG
     title: "Bank Customer Segmentation and Fraud Detection"
     excerpt: "Built a PySpark application"
     url: "https://github.com/NLP-paper/NLP-paper"
-    bnt_label: "Read"
-    bnt_class: "btn--primary"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
     
   - image_path: assets/images/placeholder.PNG
     title: "Bank Customer Segmentation and Fraud Detection"
     excerpt: "Built a PySpark application"
     url: "https://github.com/NLP-paper/NLP-paper"
-    bnt_label: "Read"
-    bnt_class: "btn--primary"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
     
 intro3:
   - excerpt: "Topics include Other."
@@ -70,22 +70,22 @@ project_row3:
     title: "PySpark Webpage Ranking"
     excerpt: "Built a PySpark application"
     url: "https://github.com/floria567/PySpark-webpage-ranking"
-    bnt_label: "Read More"
-    bnt_class: "btn--primary"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
     
   - image_path: 
     title: 
     excerpt: 
     url: 
-    bnt_label: 
-    bnt_class: 
+    btn_label: 
+    btn_class: 
     
   - image_path: 
     title: 
     excerpt: 
     url: 
-    bnt_label: 
-    bnt_class: 
+    btn_label: 
+    btn_class: 
 
 ---
 
