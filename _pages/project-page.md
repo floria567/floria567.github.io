@@ -54,7 +54,12 @@ project_row2:
     url: "https://github.com/NLP-paper/NLP-paper"
     bnt_label: "Read More"
     bnt_class: "btn--primary"
-
+  - image_path: assets/images/placeholder.PNG
+    title: "Bank Customer Segmentation and Fraud Detection"
+    excerpt: "Built a PySpark application"
+    url: "https://github.com/NLP-paper/NLP-paper"
+    bnt_label: "Read More"
+    bnt_class: "btn--primary"
 
 ---
 
