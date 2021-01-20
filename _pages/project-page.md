@@ -37,11 +37,35 @@ project_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
+intro2:
+  - excerpt: 'Topics include NLP.'
+
+project_row2:
+  - image_path: assets/images/placeholder.PNG
+    title: "PySpark Webpage Ranking"
+	excerpt: "Built a PySpark application"
+	url: "https://github.com/floria567/PySpark-webpage-ranking"
+	bnt_label: "Read More"
+	bnt_class: "btn--primary"
+	
+  - image_path: assets/images/placeholder.PNG
+    title: "Bank Customer Segmentation and Fraud Detection"
+	excerpt: "Built a PySpark application"
+	url: "https://github.com/NLP-paper/NLP-paper"
+	bnt_label: "Read More"
+	bnt_class: "btn--primary"
+
+
 ---
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro" type="left" %}
 
 {% include feature_row id="project_row"%}
+
+{% include feature_row id="intro2" type="left" %}
+
+{% include feature_row id="project_row2"%}
+
 
 <!-- {% include feature_row id="feature_row2" type="left" %} -->
 
