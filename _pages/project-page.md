@@ -37,10 +37,11 @@ project_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-intro: 
+
+intro_2: 
   - excerpt: 'Topics include Spark, NLP'
 
-project_row:
+project_row_2:
   - image_path: assets/images/recommendation.PNG
     title: "PySpark Webpage Ranking"
     excerpt: "Built a movie recommendation engine for personalized top recommended movies and conducted extensive experiments "
@@ -57,9 +58,13 @@ project_row:
 
 ---
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro" type="left" %}
 
 {% include feature_row id="project_row"%}
+
+{% include feature_row id="intro_2" type="left" %}
+
+{% include feature_row id="project_row_2"%}
 
 <!-- {% include feature_row id="feature_row2" type="left" %} -->
 
