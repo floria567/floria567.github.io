@@ -13,7 +13,7 @@ header:
 excerpt: "Here is the portfolio of my past projects."
 
 intro: 
-  - excerpt: 'Topics include recommender systems, data visualization and software engineering.'
+  - excerpt: "Topics include recommender systems, data visualization and software engineering."
 
 project_row:
   - image_path: assets/images/recommendation.PNG
@@ -38,7 +38,7 @@ project_row:
     btn_class: "btn--primary"
 
 intro2:
-  - excerpt: 'Topics include NLP.'
+  - excerpt: "Topics include NLP."
 
 project_row2:
   - image_path: assets/images/placeholder.PNG
@@ -54,20 +54,50 @@ project_row2:
     url: "https://github.com/NLP-paper/NLP-paper"
     bnt_label: "Read More"
     bnt_class: "btn--primary"
+	
   - image_path: assets/images/placeholder.PNG
     title: "Bank Customer Segmentation and Fraud Detection"
     excerpt: "Built a PySpark application"
     url: "https://github.com/NLP-paper/NLP-paper"
     bnt_label: "Read More"
     bnt_class: "btn--primary"
+	
+intro3:
+  - excerpt: "Topics include Other."
+
+project_row3:
+  - image_path: assets/images/placeholder.PNG
+    title: "PySpark Webpage Ranking"
+    excerpt: "Built a PySpark application"
+    url: "https://github.com/floria567/PySpark-webpage-ranking"
+    bnt_label: "Read More"
+    bnt_class: "btn--primary"
+    
+  - image_path: 
+    title: 
+    excerpt: 
+    url: 
+    bnt_label: 
+    bnt_class: 
+	
+  - image_path: 
+    title: 
+    excerpt: 
+    url: 
+    bnt_label: 
+    bnt_class: 
 
 ---
 
-{% include feature_row id="intro" type="left" %}
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="project_row"%}
 
-{% include feature_row id="intro2" type="left" %}
+{% include feature_row id="intro2" type="center" %}
+
+{% include feature_row id="project_row2"%}
+
+{% include feature_row id="intro2" type="center" %}
 
 {% include feature_row id="project_row2"%}
 
