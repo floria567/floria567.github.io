@@ -37,6 +37,17 @@ project_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
+---
+
+{% include feature_row id="intro" type="left" %}
+
+{% include feature_row id="project_row"%}
+
+
+intro_2: 
+  - excerpt: 'Topics include recommendation systems, data visualization and text mining.'
+
+project_row_2:
   - image_path: assets/images/recommendation.PNG
     title: "PySpark Webpage Ranking"
     excerpt: "Built a movie recommendation engine for personalized top recommended movies and conducted extensive experiments "
@@ -50,16 +61,14 @@ project_row:
     url: "https://github.com/NLP-paper/NLP-paper
     btn_label: "Read More"
     btn_class: "btn--primary"
-
----
-
-{% include feature_row id="intro" type="left" %}
-
-{% include feature_row id="project_row"%}
-
+	
+---	
 {% include feature_row id="intro_2" type="left" %}
 
 {% include feature_row id="project_row_2"%}
+
+
+
 
 <!-- {% include feature_row id="feature_row2" type="left" %} -->
 
