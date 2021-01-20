@@ -43,17 +43,17 @@ intro2:
 project_row2:
   - image_path: assets/images/placeholder.PNG
     title: "PySpark Webpage Ranking"
-	excerpt: "Built a PySpark application"
-	url: "https://github.com/floria567/PySpark-webpage-ranking"
-	bnt_label: "Read More"
-	bnt_class: "btn--primary"
+    excerpt: "Built a PySpark application"
+    url: "https://github.com/floria567/PySpark-webpage-ranking"
+    bnt_label: "Read More"
+    bnt_class: "btn--primary"
 	
   - image_path: assets/images/placeholder.PNG
     title: "Bank Customer Segmentation and Fraud Detection"
-	excerpt: "Built a PySpark application"
-	url: "https://github.com/NLP-paper/NLP-paper"
-	bnt_label: "Read More"
-	bnt_class: "btn--primary"
+    excerpt: "Built a PySpark application"
+    url: "https://github.com/NLP-paper/NLP-paper"
+    bnt_label: "Read More"
+    bnt_class: "btn--primary"
 
 
 ---
