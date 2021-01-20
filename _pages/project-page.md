@@ -9,32 +9,49 @@ header:
   # actions:
     # - label: "Download"
       # url: "https://github.com/mmistakes/minimal-mistakes/"
-  # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Here is the portfolio of my past projects."
 
 intro: 
-  - excerpt: 'Topics include recommender systems, data visualization and software engineering.'
+  - excerpt: 'Topics include recommendation systems, data visualization and text mining.'
 
 project_row:
+  - image_path: assets/images/recommendation.PNG
+    title: "Movie Recommendation System"
+    excerpt: "Built a movie recommendation engine for personalized top recommended movies and conducted extensive experiments "
+    url: "https://github.com/ds-personalization/final-project-top-recommended-final"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+	
   - image_path: assets/images/edav.PNG
-    title: "NYC bike share"
-    excerpt: "Analyzed the pandemic's influence on New York City residents, specially for 1.6M Manhattan residents who use Citi Bike as part of their commute tools."
+    title: "NYC citibike share"
+    excerpt: "Analyzed and visualized the COVID-19 pandemic's influence on New York City residents who use Citi Bike as part of their commuting tools."
     url: "https://ds-eda-viz.github.io/NYC-Bike-Share/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-  - image_path: assets/images/edav2.PNG
-    title: "NYC bike share2"
-    excerpt: "Analyzed the pandemic's influence on New York City residents, specially for 1.6M Manhattan residents who use Citi Bike as part of their commute tools."
-    url: "https://ds-eda-viz.github.io/NYC-Bike-Share/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-
-  - image_path: assets/images/edav3.PNG
+  - image_path: assets/images/stock.PNG
     alt: "bike"
-    title: "NYC bike share"
-    excerpt: "Analyzed the pandemic's influence on New York City residents, specially for 1.6M Manhattan residents who use Citi Bike as part of their commute tools."
-    url: "https://ds-eda-viz.github.io/NYC-Bike-Share/"
+    title: "Text Mining for Seeking Alpha in Stock Market"
+    excerpt: "Developed a prediction system by leveraging Yahoo Finance News for stock price prediction, simulated a systematic trading strategy"
+    url: "https://github.com/floria567/Text-Mining"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+intro: 
+  - excerpt: 'Topics include Spark, NLP'
+
+project_row:
+  - image_path: assets/images/recommendation.PNG
+    title: "PySpark Webpage Ranking"
+    excerpt: "Built a movie recommendation engine for personalized top recommended movies and conducted extensive experiments "
+    url: "https://github.com/floria567/PySpark-webpage-ranking"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+	
+  - image_path: assets/images/edav.PNG
+    title: "Bank Customer Segmentation and Fraud Detection"
+    excerpt: "Analyzed and visualized the COVID-19 pandemic's influence on New York City residents who use Citi Bike as part of their commuting tools."
+    url: "https://github.com/NLP-paper/NLP-paper
     btn_label: "Read More"
     btn_class: "btn--primary"
 
