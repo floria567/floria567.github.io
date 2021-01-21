@@ -22,7 +22,7 @@ project_row:
     url: "https://github.com/ds-personalization/final-project-top-recommended-final"
     btn_label: "Read More"
     btn_class: "btn--primary"
-
+    
   - image_path: assets/images/edav.PNG
     title: "Customer Segmentation and Fraud Detection"
     excerpt: "Working on a Research paper for bank customer segmentation and fraud detection based on transaction data with innovative work"
@@ -36,10 +36,10 @@ project_row:
     url: "https://github.com/floria567/Text-Mining"
     btn_label: "Read More"
     btn_class: "btn--primary"
-
+    
 intro2:
   - excerpt: "Topics include data exploration, visualization and distribution system, etc."
-
+  
 project_row2:
   - image_path: assets/images/placeholder.PNG
     title: "NYC CitiBike Share"
