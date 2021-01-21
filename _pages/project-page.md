@@ -12,9 +12,8 @@ header:
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Here is the portfolio of my past projects."
 
-intro:
 
-Topics include recommendation systems,Topic Modeling and Natural Language Processing  
+<p>Topics include recommendation systems,Topic Modeling and Natural Language Processing  </p>
 
 project_row:
   - image_path: assets/images/recommendation.PNG
@@ -64,7 +63,6 @@ project_row2:
     btn_class:
    
 ---
-{% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="project_row"%}
 
