@@ -6,4 +6,4 @@ permalink: '/cv/'
 
 You can download my latest CV **[here]({{site.url}}/assets/CV_Gaoyi_Shi.pdf)**. 
 
-Last update 2020/01
+Last update 2021/01
