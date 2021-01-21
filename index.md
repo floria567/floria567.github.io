@@ -37,7 +37,7 @@ Highly motivated individual who has years of working experience in structured fi
   New York, NY
 
 
-- **Research Analyst** -_Burgiss_<br>
+- **Research Analyst** - _Burgiss_<br>
   Hoboken, NJ
   
 
