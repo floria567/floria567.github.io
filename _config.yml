@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Gaoyi Shi"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Enthusiast of Computer Science, Machine Learning and Data Mining."
+  bio    : "Enthusiast of Data Science, Machine Learning and Data Mining."
   links:
     - label: "Email"
       icon: "far fa-fw fa-envelope"
