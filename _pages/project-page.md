@@ -36,7 +36,7 @@ project_row:
     url: "https://github.com/floria567/Text-Mining"
     btn_label: "Read More"
     btn_class: "btn--primary" 
-	
+    
 intro2:
   - excerpt: "Topics include data exploration, visualization and distribution system, etc."
     
@@ -44,7 +44,7 @@ project_row2:
   - image_path: assets/images/placeholder.PNG
     title: "NYC CitiBike Share"
     excerpt: "Analyzed and visualized the COVID-19 pandemic's influence on New York City residents who use Citi Bike as part of their commuting tools."
-    url: ""https://ds-eda-viz.github.io/NYC-Bike-Share/"
+    url: "https://ds-eda-viz.github.io/NYC-Bike-Share/"
     btn_label: "Read More"
     btn_class: "btn--primary"
     
