@@ -5,7 +5,7 @@ permalink: /project-page/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: assets/images/project_header.jpg
+  overlay_image: assets/images/project_header2.jpg
   # actions:
     # - label: "Download"
       # url: "https://github.com/mmistakes/minimal-mistakes/"
@@ -50,7 +50,7 @@ project_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
     
-  - image_path: assets/images/placeholder.PNG
+  - image_path: assets/images/spark.PNG
     title: "PySpark WebGraph and PageRank"
     excerpt: "Built a PySpark application"
     url: "https://github.com/floria567/PySpark-webpage-ranking"
