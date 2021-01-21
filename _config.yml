@@ -57,7 +57,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Gaoyi Shi"
+  name   : "Gaoyi Shi, FRM"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Enthusiast of Data Science, Machine Learning and Data Mining."
   links:
