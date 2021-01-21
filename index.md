@@ -26,7 +26,7 @@ Highly motivated individual who has years of working experience in structured fi
 
 
 
-## Professional Experiences
+## Professional Experience
 
 - **Financial Engineer** - _Moody’s Analytics_<br> 
   New York, NY  
