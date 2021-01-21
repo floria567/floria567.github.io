@@ -5,7 +5,7 @@ permalink: /project-page/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: assets/images/project_header2.jpg
+  overlay_image: assets/images/project_header.jpg
   # actions:
     # - label: "Download"
       # url: "https://github.com/mmistakes/minimal-mistakes/"
