@@ -14,7 +14,8 @@ Highly motivated individual who has years of working experience in structured fi
 
 - **M.S. in Data Science** - _Columbia University_<br>
   GPA: 4.0/4.0, The Fu Foundation School of Engineering and Applied Science  
-  Currently pursing my master degree of Data Science at Columbia. Expected to graduate in Dec 2021.
+  Currently pursing my master degree of Data Science at Columbia.   
+  Expected to graduate in Dec 2021.
 
 - **M.S. in Mathematical Finance** - _Rutgers University_<br>
   GPA: 3.91/4.0, Department of Mathematics  
