@@ -46,7 +46,7 @@ Highly motivated individual who has years of working experience in structured fi
 Technical Skills:   
 **Python, R, SQL, C++, C#, EXCEL VBA, HTML, Bloomberg, Git**
 
-Cloud Service:   
+Cloud Services:   
 **Google Cloud Platform, AWS**
 
 Libraries and Frameworks:   
