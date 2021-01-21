@@ -30,7 +30,7 @@ Highly motivated individual who has years of working experience in structured fi
 ## Professional Experiences
 
 - **Financial Engineer** - _Moody’s Analytics_<br> 
-  New York, NY
+  New York, NY  
   Currenlty working at Moody's as a Financial Engineer
   
   
