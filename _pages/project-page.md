@@ -13,8 +13,8 @@ header:
 excerpt: "Here is the portfolio of my past projects."
 
 
-intro2:
-  - excerpt: "Topics include recommendation systems,Topic Modeling   
+intro:
+  - excerpt: "Topics include recommendation systems,Topic Modeling  
   and Natural Language Processing."
 
 project_row:
