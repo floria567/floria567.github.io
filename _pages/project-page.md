@@ -13,7 +13,9 @@ header:
 excerpt: "Here is the portfolio of my past projects."
 
 
-<p>Topics include recommendation systems,Topic Modeling and Natural Language Processing  </p>
+intro2:
+  - excerpt: "Topics include recommendation systems,Topic Modeling   
+  and Natural Language Processing."
 
 project_row:
   - image_path: assets/images/recommendation.PNG
@@ -38,7 +40,7 @@ project_row:
     btn_class: "btn--primary" 
     
 intro2:
-  - excerpt: "Topics include data exploration, visualization and distribution system, etc."
+  - excerpt: "Topics include data visualization and distribution system, etc."
     
 project_row2:
   - image_path: assets/images/placeholder.PNG
@@ -63,6 +65,8 @@ project_row2:
     btn_class:
    
 ---
+
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="project_row"%}
 
