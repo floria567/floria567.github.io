@@ -25,7 +25,7 @@ project_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-  - image_path: assets/images/edav.PNG
+  - image_path: assets/images/NLP.PNG
     title: "Customer Segmentation and Fraud Detection"
     excerpt: "Working on a Research paper for bank customer segmentation and fraud detection based on transaction data with innovative work"
     url: "https://github.com/NLP-paper/NLP-paper"
@@ -43,7 +43,7 @@ intro2:
   - excerpt: "Topics include data visualization and distribution system, etc."
     
 project_row2:
-  - image_path: assets/images/placeholder.PNG
+  - image_path: assets/images/edav.PNG
     title: "NYC CitiBike Share"
     excerpt: "Analyzed and visualized the COVID-19 pandemic's influence on New York City residents who use Citi Bike as part of their commuting tools."
     url: "https://ds-eda-viz.github.io/NYC-Bike-Share/"
