@@ -13,20 +13,20 @@ Highly motivated individual who has years of working experience in structured fi
 ## Education
 
 - **M.S. in Data Science** - _Columbia University_<br>
-  GPA: 4.0/4.0, The Fu Foundation School of Engineering and Applied Science
+  GPA: 4.0/4.0, The Fu Foundation School of Engineering and Applied Science  
   Currently pursing my master degree of Data Science at Columbia. Expected to graduate in Dec 2021.
 
 - **M.S. in Mathematical Finance** - _Rutgers University_<br>
-  GPA: 3.91/4.0, Department of Mathematics
+  GPA: 3.91/4.0, Department of Mathematics  
   Graduated in May 2017.
 
 - **B.A. in Finance** - _Zhejiang University_<br>
-  GPA: 3.86/4.0, School of Economics
+  GPA: 3.86/4.0, School of Economics  
   Graduated in Jun 2015.
 
 
 
-## Previous Professional Experiences
+## Professional Experiences
 
 - **Financial Engineer** - _Moody’s Analytics_<br> 
   New York, NY
@@ -43,7 +43,7 @@ Highly motivated individual who has years of working experience in structured fi
 
 ## Programming Skills
 
-Technical Skills: **Python, R, SQL, C++, C#, EXCEL VBA, HTML, Bloomberg, Git
+Technical Skills: **Python, R, SQL, C++, C#, EXCEL VBA, HTML, Bloomberg, Git**
 
 Cloud Service: **Google Cloud Platform, AWS**
 
