@@ -34,7 +34,7 @@ Highly motivated individual who has years of working experience in structured fi
   Google Cloud Platform, AWS
 
 - **Libraries and Frameworks:**   
-  NumPy, Pandas, Matplotlib, Scikit-learn, BeautifulSoup, NLTK, Gensim, PySpark
+  NumPy, Pandas, Matplotlib, Scikit-learn, BeautifulSoup, NLTK, Gensim, PySpark, TensorFlow, Keras
 
 
 ## Professional Experience
