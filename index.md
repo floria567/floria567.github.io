@@ -27,14 +27,14 @@ Highly motivated individual who has years of working experience in structured fi
 
 ## Programming Skills
 
-Technical Skills:   
-**Python, R, SQL, C++, C#, EXCEL VBA, HTML, Bloomberg, Git**
+- **Technical Skills:**    
+  Python, R, SQL, C++, C#, EXCEL VBA, HTML, Bloomberg, Git
 
-Cloud Services:   
-**Google Cloud Platform, AWS**
+- **Cloud Services:**    
+  Google Cloud Platform, AWS
 
-Libraries and Frameworks:   
-**NumPy, Pandas, Matplotlib, Scikit-learn, BeautifulSoup, NLTK, Gensim, PySpark**
+- **Libraries and Frameworks:**   
+  NumPy, Pandas, Matplotlib, Scikit-learn, BeautifulSoup, NLTK, Gensim, PySpark
 
 
 ## Professional Experience
