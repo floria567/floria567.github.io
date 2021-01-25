@@ -52,7 +52,7 @@ project_row2:
     
   - image_path: assets/images/spark.PNG
     title: "PySpark WebGraph and PageRank"
-    excerpt: "Built a PySpark application"
+    excerpt: "Built a PySpark application based on Wikipedia pages"
     url: "https://github.com/floria567/PySpark-webpage-ranking"
     btn_label: "Read More"
     btn_class: "btn--primary"
