@@ -14,8 +14,7 @@ excerpt: "Here is the portfolio of my past projects."
 
 
 intro:
-  - excerpt: "Topics include recommendation systems,Topic Modeling  
-  and Natural Language Processing."
+  - excerpt: "Topics include recommendation systems,Topic Modeling and Natural Language Processing."
 
 project_row:
   - image_path: assets/images/recommendation.PNG
@@ -26,33 +25,33 @@ project_row:
     btn_class: "btn--primary"
 
   - image_path: assets/images/NLP.PNG
-    title: "Customer Segmentation and Fraud Detection"
-    excerpt: "Working on a Research paper for bank customer segmentation and fraud detection based on transaction data with innovative work"
+    title: "Customer Segmentation and Anomaly Detection"
+    excerpt: "Working on a Research paper for bank customer segmentation and anomaly detection based on transaction behavior with innovative work"
     url: "https://github.com/NLP-paper/NLP-paper"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
   - image_path: assets/images/stock.PNG
     title: "Text Mining for Seeking Alpha in Stock Market"
-    excerpt: "Developed a prediction system by leveraging Yahoo Finance News for stock price prediction; simulated a systematic trading strategy"
+    excerpt: "Developed a prediction system by web crawling and leveraging Yahoo Finance News for stock price prediction; simulated a systematic trading strategy"
     url: "https://github.com/floria567/Text-Mining"
     btn_label: "Read More"
     btn_class: "btn--primary" 
     
 intro2:
-  - excerpt: "Topics include data visualization and distribution system, etc."
+  - excerpt: "Topics include data exploration, visualization and distribution system, etc."
     
 project_row2:
   - image_path: assets/images/edav.PNG
     title: "NYC Citibike Share"
-    excerpt: "Analyzed and visualized the COVID-19 pandemic's influence on New York City residents who use Citi Bike as part of their commuting tools."
+    excerpt: "Analyzed and visualized the COVID-19 pandemic's impact on New York City residents who use Citibike as part of their commuting tools."
     url: "https://ds-eda-viz.github.io/NYC-Bike-Share/"
     btn_label: "Read More"
     btn_class: "btn--primary"
     
   - image_path: assets/images/spark.PNG
-    title: "PySpark WebGraph and PageRank"
-    excerpt: "Built a PySpark application based on Wikipedia pages"
+    title: "PySpark for WebGraph and PageRank"
+    excerpt: "Deployed Spark and HDFS in Google Cloud Dataproc and built a PySpark application to generate web graph and page rank from entire Wikipedia"
     url: "https://github.com/floria567/PySpark-webpage-ranking"
     btn_label: "Read More"
     btn_class: "btn--primary"
