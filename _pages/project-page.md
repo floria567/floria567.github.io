@@ -50,8 +50,8 @@ project_row2:
     btn_class: "btn--primary"
     
   - image_path: assets/images/spark.PNG
-    title: "PySpark for WebGraph and PageRank"
-    excerpt: "Deployed Spark and HDFS in Google Cloud Dataproc and built a PySpark application to generate web graph and page rank from entire Wikipedia"
+    title: "PySpark for PageRank Program"
+    excerpt: "Deployed Spark and HDFS in Google Cloud Dataproc and built a PySpark application to generate a web graph and page rank program from entire Wikipedia"
     url: "https://github.com/floria567/PySpark-webpage-ranking"
     btn_label: "Read More"
     btn_class: "btn--primary"
