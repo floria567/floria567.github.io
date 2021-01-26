@@ -43,7 +43,7 @@ intro2:
     
 project_row2:
   - image_path: assets/images/edav.PNG
-    title: "NYC Citibike Share"
+    title: "NYC Citibike Share Visualization"
     excerpt: "Analyzed and visualized the COVID-19 pandemic's impact on New York City residents who use Citibike as part of their commuting tools."
     url: "https://ds-eda-viz.github.io/NYC-Bike-Share/"
     btn_label: "Read More"
