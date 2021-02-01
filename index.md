@@ -22,8 +22,9 @@ Highly motivated individual who has years of working experience in structured fi
 
 - **B.A. in Finance** - _Zhejiang University_<br>
   GPA: 3.86/4.0, _School of Economics_  
-  Graduated in Jun 2015.
-
+  Graduated in Jun 2015, honor graduate.  
+  Academic Excellence scholarship  
+  Sumitomo Mitsui Banking Scholarship  
 
 ## Programming Skills
 
